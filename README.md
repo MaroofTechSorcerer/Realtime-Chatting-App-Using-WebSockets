@@ -2,6 +2,10 @@
 
 A modern, real-time chat application built using **Node.js, Express, Socket.IO, and WebSockets**. This project allows multiple users to connect, chat instantly, and see who's typing, with a sleek UI featuring dark mode and a dynamic typing indicator.  
 
+### 📥 Project Introduction Video
+
+https://drive.google.com/file/d/1YT1zuG8Y10E8qa_nRWPZzGycF8FilLqL/view?usp=sharing
+
 ## 🚀 Features  
 - **Real-Time Messaging** – Instant message delivery using WebSockets via Socket.IO.  
 - **Typing Indicator** – Animated dots appear when a user is typing, enhancing the interactive experience.  
