@@ -17,5 +17,5 @@
   "devDependencies": {
     "nodemon": "^2.0.4"
   }
-  "start": "node server.js"
+  "start": "node app.js"
 }
