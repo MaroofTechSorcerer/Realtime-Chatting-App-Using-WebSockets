@@ -2,9 +2,13 @@
 
 A modern, real-time chat application built using **Node.js, Express, Socket.IO, and WebSockets**. This project allows multiple users to connect, chat instantly, and see who's typing, with a sleek UI featuring dark mode and a dynamic typing indicator.  
 
+### 📥 Project is Live on
+
+https://realtime-chat-bot-using-websockets-maroof.onrender.com/
+
 ### 📥 Project Introduction Video
 
-https://drive.google.com/file/d/1caqi4R8KmRJAJgkscI0iylkjNUx0O837/view?usp=drive_link
+https://drive.google.com/file/d/1caqi4R8KmRJAJgkscI0iylkjNUx0O837/view?usp=drive_link 
 
 
 ## 🚀 Features  
