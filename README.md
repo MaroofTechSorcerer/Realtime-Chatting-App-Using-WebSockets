@@ -1,4 +1,4 @@
-# Realtime Chat Bot Using WebSockets  
+# Realtime Chatting App Using WebSockets  
 
 A modern, real-time chat application built using **Node.js, Express, Socket.IO, and WebSockets**. This project allows multiple users to connect, chat instantly, and see who's typing, with a sleek UI featuring dark mode and a dynamic typing indicator.  
 
